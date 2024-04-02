@@ -6,7 +6,7 @@
                 {
                     "id": 1,
                     "title": "O sinal indica:",
-                    "image_path": "assets/exame1/e1.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e1.png",
                     "options": [
                         "Existência de controlo de trafégo adiante",
                         "Controle policial por pirilampos",
@@ -18,7 +18,7 @@
                 {
                     "id": 2,
                     "title": "Os automóveis classificam-se em:",
-                    "image_path": "assets/exame1/e2.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e2.png",
                     "options": [
                         "Ligeiros e Pesados",
                         "Ligeiros, Pesados e Motociclos",
@@ -30,7 +30,7 @@
                 {
                     "id": 3,
                     "title": "É aconselhável viajar à noite para evitar fadiga?",
-                    "image_path": "assets/exame1/e3.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e3.png",
                     "options": [
                         "Não, porque o sono aparece mais facilmente",
                         "Sim, se a viagem é longa",
@@ -42,7 +42,7 @@
                 {
                     "id": 4,
                     "title": "O que indica o sinal de informação?",
-                    "image_path": "assets/exame1/e4.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e4.png",
                     "options": [
                         "Área reservada para automóveis",
                         "Área reservada para táxis",
@@ -53,7 +53,7 @@
                 {
                     "id": 5,
                     "title": "Que veículo deve retroceder para dar passagem ao outro?",
-                    "image_path": "assets/exame1/e5.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e5.png",
                     "options": [
                         "O veículo mais pesado",
                         "O veículo com maior largura",
@@ -65,7 +65,7 @@
                 {
                     "id": 6,
                     "title": "Deve utilizar-se as luzes de perigo...",
-                    "image_path": "assets/exame1/e6.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e6.png",
                     "options": [
                         "Ao estacionar em segunda fila",
                         "Para aviasar os outros utentes que o veículo vai fazer marcha atrás",
@@ -77,7 +77,7 @@
                 {
                     "id": 7,
                     "title": "O que indica a marca rodoviária branca?",
-                    "image_path": "assets/exame1/e7.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e7.png",
                     "options": [
                         "Indica a existência de banda sonoras",
                         "Indica a redução de filas de trânsito",
@@ -88,7 +88,7 @@
                 {
                     "id": 8,
                     "title": "Atirar do veículo ou abandonar na via objecto ou substância, constitui contravenção:",
-                    "image_path": "assets/exame1/e8.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e8.png",
                     "options": [
                         "Leve",
                         "Grave",
@@ -99,7 +99,7 @@
                 {
                     "id": 9,
                     "title": "Entende-se por visibilidade reduzida ou insuficiente, quando o condutor não possa avistar a faixa de rodagem em toda a sua largura numa extensão de:",
-                    "image_path": "assets/exame1/e9.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e9.png",
                     "options": [
                         "Pelo menos, 50 metros",
                         "Pelo menos, 200 metros",
@@ -111,7 +111,7 @@
                 {
                     "id": 10,
                     "title": "O que indica o sinal",
-                    "image_path": "assets/exame1/e10.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e10.png",
                     "options": [
                         "Sentido proibido",
                         "Trânsito proibido",
@@ -123,7 +123,7 @@
                 {
                     "id": 11,
                     "title": "Uma das consequências de aumentar a velocidade, é de que…",
-                    "image_path": "assets/exame1/e11.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e11.png",
                     "options": [
                         "Melhora o tempo de reacção",
                         "Aumenta a gravidade das lesões em caso de acidente",
@@ -135,7 +135,7 @@
                 {
                     "id": 12,
                     "title": "O trânsito de veículos ou de animais é feito…",
-                    "image_path": "assets/exame1/e12.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e12.png",
                     "options": [
                         "Do lado direito das faixas de rodagem e o mais próximo possível das bermas ou passeios",
                         "Próximo do eixo da via",
@@ -146,7 +146,7 @@
                 {
                     "id": 13,
                     "title": "Numa autoestrada, pode-se inverter o sentido de marcha?",
-                    "image_path": "assets/exame1/e13.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e13.png",
                     "options": [
                         "Sempre que possível",
                         "Nunca",
@@ -157,7 +157,7 @@
                 {
                     "id": 14,
                     "title": "O que indica o sinal ?",
-                    "image_path": "assets/exame1/e14.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e14.png",
                     "options": [
                         "Paragem proibida a veículos que transportam substâncias perigosas",
                         "Paragem obrigatória para veículos que transportam substâncias perigosas",
@@ -168,7 +168,7 @@
                 {
                     "id": 15,
                     "title": "Que comunica o condutor aos outros utentes da via ?",
-                    "image_path": "assets/exame1/e15.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e15.png",
                     "options": [
                         "Que vai para o lado esquerdo do volante",
                         "Que vai voltar para o lado direito do volante",
@@ -179,7 +179,7 @@
                 {
                     "id": 16,
                     "title": "O que indica o sinal ?",
-                    "image_path": "assets/exame1/e16.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e16.png",
                     "options": [
                         "A presença de cancela motorizada ao centro",
                         "A presença de ponte móvel",
@@ -190,7 +190,7 @@
                 {
                     "id": 17,
                     "title": "O que indica o sinal ?",
-                    "image_path": "assets/exame1/e17.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e17.png",
                     "options": [
                         "Pré-advertência da direção de saída",
                         "Advertência da direção de saída",
@@ -201,7 +201,7 @@
                 {
                     "id": 18,
                     "title": "Considera-se morte por acidente de viação:",
-                    "image_path": "assets/exame1/e18.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e18.png",
                     "options": [
                         "Aquela que ocorre até 30 dias após o registro do sinistro",
                         "Aquela que ocorre no local do sinistro",
@@ -212,7 +212,7 @@
                 {
                     "id": 19,
                     "title": "Os peões, para atravessar a faixa de rodagem…",
-                    "image_path": "assets/exame1/e19.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e19.png",
                     "options": [
                         "Podem fazê-lo sem utilizar passagens para peões, se não existe nenhuma a um distância inferior a 10m",
                         "Estão sempre obrigados a utilizar a passagem desnivelada para peões",
@@ -224,7 +224,7 @@
                 {
                     "id": 20,
                     "title": "Nos veículos de mercadorias, a carga deve ser disposta de modo a que:",
-                    "image_path": "assets/exame1/e20.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e20.png",
                     "options": [
                         "O principal peso fique sobre o eixo da retaguarda",
                         "Fique livre o maior espaço possível à retaguarda da caixa de carga",
@@ -235,7 +235,7 @@
                 {
                     "id": 21,
                     "title": "O que indica o sinal ?",
-                    "image_path": "assets/exame1/e21.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e21.png",
                     "options": [
                         "Trânsito proibido a peões, animais e veículos automóveis",
                         "Trânsito proibido a peões, animais e veículos não automóveis",
@@ -246,7 +246,7 @@
                 {
                     "id": 22,
                     "title": "É proibido ultrapassar:",
-                    "image_path": "assets/exame1/e22.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e22.png",
                     "options": [
                         "Em todas as curvas",
                         "Depois dos cruzamentos",
@@ -258,7 +258,7 @@
                 {
                     "id": 23,
                     "title": "Os automóveis pesados de passageiros, fora das localidades, não devem exceder a velocidade instantânea de:",
-                    "image_path": "assets/exame1/e23.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e23.png",
                     "options": [
                         "80 km/h",
                         "120 km/h",
@@ -269,7 +269,7 @@
                 {
                     "id": 24,
                     "title": "Todos os condutores de veículos ou animais são obrigados a…",
-                    "image_path": "assets/exame1/e24.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e24.png",
                     "options": [
                         "Abandonar os veículos nos locais de estacionamento sem motivo justificado",
                         "Reduzir ou suspender intencionalmente a circulação, formando filas de trânsito desnecessárias",
@@ -280,7 +280,7 @@
                 {
                     "id": 25,
                     "title": "O que indica o sinal?",
-                    "image_path": "assets/exame1/e25.png",
+                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e25.png",
                     "options": [
                         "Sentido obrigatório para a frente",
                         "Via rápida",
