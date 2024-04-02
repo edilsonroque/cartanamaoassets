@@ -290,35 +290,6 @@
                     "correctOptionIndex": 2
                 }
             ]
-        },
-        {
-            "id": 2,
-            "questions": [
-                {
-                    "id": 1,
-                    "title": "Question 1:",
-                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e1.png",
-                    "options": [
-                        "Existência de controlo de trafégo adiante",
-                        "Controle policial por pirilampos",
-                        "Congestionamento de Tráfego",
-                        "Dever de Parar"
-                    ],
-                    "correctOptionIndex": 1
-                },
-                {
-                    "id": 2,
-                    "title": "Question 2:",
-                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e1.png",
-                    "options": [
-                        "Existência de controlo de trafégo adiante",
-                        "Controle policial por pirilampos",
-                        "Congestionamento de Tráfego",
-                        "Dever de Parar"
-                    ],
-                    "correctOptionIndex": 1
-                },
-            ]
         }
     ]
 }
