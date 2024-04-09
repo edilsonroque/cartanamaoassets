@@ -1,54 +1,52 @@
-{
-  "exams": [
-    {
-      "id": 1,
-      "questions": [
-        {
-          "id": 1,
-          "title": "O sinal indica:",
-          "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e1.png",
-          "options": [
-            "Existência de controlo de tráfego adiante",
-            "Controle policial por pirilampos",
-            "Congestionamento de Tráfego",
-            "Dever de Parar"
-          ],
-          "correctOptionIndex": 1
-        },
-      ]
-    },
-    {
-      "id": 2,
-      "questions": [
-        {
-          "id": 1,
-          "title": "O que indica o sinal?",
-          "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e1.png",
-          "options": [
-            "Sentido proibido",
-            "Trânsito proibido",
-            "Trânsito proibido a automóveis ligeiros de passageiros",
-            "Nenhuma das anteriores"
-          ],
-          "correctOptionIndex": 1
-        },
-      ]
-    },
-    {
-      "id": 3,
-      "questions": [
-        {
-          "id": 1,
-          "title": "Nos veículos de mercadorias, a carga deve ser disposta de modo a que:",
-          "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
-          "options": [
-            "O principal peso fique sobre o eixo da retaguarda",
-            "Fique livre o maior espaço possível à retaguarda da caixa de carga",
-            "Seja assegurado o equilíbrio do veículo, parado ou em movimento"
-          ],
-          "correctOptionIndex": 2
-        },
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "questions": [
+      {
+        "id": 1,
+        "title": "O sinal indica:",
+        "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e1.png",
+        "options": [
+          "Existência de controlo de tráfego adiante",
+          "Controle policial por pirilampos",
+          "Congestionamento de Tráfego",
+          "Dever de Parar"
+        ],
+        "correctOptionIndex": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "questions": [
+      {
+        "id": 1,
+        "title": "O que indica o sinal?",
+        "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e1.png",
+        "options": [
+          "Sentido proibido",
+          "Trânsito proibido",
+          "Trânsito proibido a automóveis ligeiros de passageiros",
+          "Nenhuma das anteriores"
+        ],
+        "correctOptionIndex": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "questions": [
+      {
+        "id": 1,
+        "title": "Nos veículos de mercadorias, a carga deve ser disposta de modo a que:",
+        "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+        "options": [
+          "O principal peso fique sobre o eixo da retaguarda",
+          "Fique livre o maior espaço possível à retaguarda da caixa de carga",
+          "Seja assegurado o equilíbrio do veículo, parado ou em movimento"
+        ],
+        "correctOptionIndex": 2
+      }
+    ]
+  }
+]
