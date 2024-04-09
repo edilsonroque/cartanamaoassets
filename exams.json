@@ -290,67 +290,6 @@
                     "correctOptionIndex": 2
                 }
             ]
-        },
-        {
-            "id": 2,
-            "questions": [
-                {
-                    "id": 1,
-                    "title": "Se o condutor de um veículo, devido a acidente ou a avaria, tiver de parar na faixa de rodagem de uma autoestrada, o que deve fazer?",
-                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e1.png",
-                    "options": [
-                        "Sinalizar a situação e colocar-se no lado direito da faixa de rodagem, fora dela",
-                        "Colocar o triângulo a 50 metros antes do local da paragem e manter-se dentro do veículo",
-                        "Sair do veículo e colocar o triângulo a 50 metros antes do local da paragem"
-                    ],
-                    "correctOptionIndex": 0
-                },
-                {
-                    "id": 2,
-                    "title": "O que significa o sinal indicativo de um passeio estreito?",
-                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e2.png",
-                    "options": [
-                        "Que a largura do passeio não é suficiente para a passagem de dois peões lado a lado",
-                        "Que a largura do passeio é suficiente para a passagem de dois peões lado a lado",
-                        "Que o passeio é estreito mas é possível a passagem de dois peões lado a lado"
-                    ],
-                    "correctOptionIndex": 0
-                },
-                {
-                    "id": 3,
-                    "title": "Quem é obrigado a ceder a passagem quando se aproxima de uma passagem estreita?",
-                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e3.png",
-                    "options": [
-                        "O veículo que se apresenta pela direita",
-                        "O veículo que se apresenta pela esquerda",
-                        "O veículo que se apresenta em menor número de unidades de carga"
-                    ],
-                    "correctOptionIndex": 0
-                },
-                {
-                    "id": 4,
-                    "title": "O que indica este sinal?",
-                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e4.png",
-                    "options": [
-                        "Indica a direção a seguir",
-                        "Indica a passagem proibida",
-                        "Indica a passagem permitida"
-                    ],
-                    "correctOptionIndex": 2
-                },
-                {
-                    "id": 5,
-                    "title": "O que deve fazer quando se aproxima de um peão na passadeira?",
-                    "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e5.png",
-                    "options": [
-                        "Aumentar a velocidade para passar rapidamente",
-                        "Diminuir a velocidade e parar, se necessário",
-                        "Manter a velocidade e continuar",
-                        "Ignorar o peão, pois tem prioridade apenas nos semáforos"
-                    ],
-                    "correctOptionIndex": 1
-                }
-            ]
-        },
+        }
     ]
 }
