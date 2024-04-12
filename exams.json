@@ -644,56 +644,6 @@
                 "correctOptionIndex": 0
             },
             {
-        "id": 3,
-        "questions": [
-            {
-                "id": 1,
-                "title": "Nos veículos de mercadorias, a carga deve ser disposta de modo a que:",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e3.png",
-                "options": [
-                    "O principal peso fique sobre o eixo da retaguarda",
-                    "Fique livre o maior espaço possível à retaguarda da caixa de carga",
-                    "Seja assegurado o equilíbrio do veículo, parado ou em movimento"
-                ],
-                "correctOptionIndex": 2
-            }
-            {
-                "id": 3,
-                "title": "",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
-                "options": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "correctOptionIndex": 1
-            },
-            {
-                "id": 3,
-                "title": "",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
-                "options": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "correctOptionIndex": 1
-            },
-            {
-                "id": 3,
-                "title": "",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
-                "options": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "correctOptionIndex": 1
-            },
-            {
                 "id": 6,
                 "title": "Nos veículos destinados ao transporte de passageiros ou mistos...",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
@@ -753,82 +703,181 @@
                 "correctOptionIndex": 0
             },
             {
-                "id": ,
-                "title": "",
+                "id": 11,
+                "title": "Como deve actuar o condutor quando tem que fazer uma curva",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Reduzir a velociade, já dentro da curva",
+                    "Aumentar a velocidade, antes de entrar na curva",
+                    "Adaptar a velocidade, antes de entrar na curva",
+                    "Pressionar o pedla de embraiagem e não acelerar dentro da curva"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Passagem estreita",
+                    "Ponte estreita",
+                    "Entrocamentos sucessivos",
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": ,
-                "title": "",
+                "id": 13,
+                "title": "É necessário verificar com frequência o sistema de iluminação",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Sim, mudando todos os fusíveis",
+                    "Sim, para se assegurar que todas as luzes funcionam e que os faróis estão bem regulados",
+                    "Não, porque se deve fazer unicamente numa oficina",
+                    "Não, é suficente a revisão na inspecção periódica obrigatória",
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": ,
-                "title": "",
+                "id": 14,
+                "title": "Ao circular com velocidade excessiva",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Aumenta a probabilidade de ter um acidente",
+                    "É mais fácil controlar o veículo numa situação de emergência",
+                    "O condutor tem um tempo de reacção mais reduzido",
+                    "O consumo de combustível é menor"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "O que deve fazer o condutor quando a intensidade do tráfego é grande?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Aumentar a velocidade",
+                    "Praticar uma condução defensiva",
+                    "Utilizar os sinais sonoros frequente",
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": ,
-                "title": "",
+                "id": 16,
+                "title": "A que  grupo percente o sinal triângular",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Sinais temporários de obrigação",
+                    "Sinais temporários de proibição",
+                    "Sinais temporários de perigo",
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 17,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Passagem desnivelada para peões com rampas",
+                    "Passagem de peões",
+                    "Pista obrigatória para peões",
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "Perante um obstáculo imprevisto que o obriga a reduzir subitamente a velocidade, o condutor deve:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Sinalizar a situação utilizando os máximos e os médios alternadamente",
+                    "Ligar as luzes de presença para avisar os outros utentes da via",
+                    "Ligar as luzes de perigo para aviasr os outros utenes da via",
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Quais são os princípios gerais do socorrismo?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Prevenir, socorrer e evacuar",
+                    "Prevenir, oberserver e socorrer",
+                    "Prevenir, alertar e socorrer",
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Para ter mais segurança, os peões devem...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Transitar sempre do lado esquerdo da faixa de rogadem, em relação ao seu sentido de marcha",
+                    "Transitar pelo lado direto, em relação ao seu sentido de marcha, a nào ser que tal comprometa a sua segurança",
+                    "Fazer o atravessamente da faixa de rodagem o mais lentamente possível",
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": ,
-                "title": "",
+                "id": 21,
+                "title": "Onde é proibido inverter o sentido de marcha?",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Nos cruzmentos ou entrocamentos de visiviliade reduzida",
+                    "Nas rotundas",
+                    "Fora das localidades",
+                    "Só quando haja grande intensidade de tráfego",
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Conduzir um automóvel com uma parte do corpo fora do veículo, constitui:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Contravenção média",
+                    "Contravenção leve",
+                    "Contravenção grave",
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Nesta situação , se não for possível efectuar o cruzamento com segurança, como deve proceder o condutor?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Acelerar para passar antes do veículo que circula em sentido contrário",
+                    "Reduzir velocidade ou parar, de modo a dar a passagem ao outro veículo",
+                    "Nada, porque eu tenho prioridade de passagem",
+                    "Utilizar os sinais sonoros para que o outro condutor pare"
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": ,
-                "title": "",
+                "id": 24,
+                "title": "Existe algum troque para conseguir eliminar o álcool do corpo do condutor, de uma forma mais rápida?",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Sim, dormir um pouco",
+                    "Sim, tomar doces",
+                    "Não",
+                    "Consumir alguma substância psicotrópica, como cannabis ou cocaína"
                 ],
-                "correctOptionIndex": 1
+                "correctOptionIndex": 2
             },
-            
+            {
+                "id": 25,
+                "title": "Pode favorecer o aparecimento de fadiga ao volante",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Descansar frequentemente durante uma viagem",
+                    "Conduzir por uma estrada em boas condições",
+                    "Conduzir por muito tempo sem parar para descansar",
+                    "Usar o ar condicionado"
+                ],
+                "correctOptionIndex": 2
+            },
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "questions": [
             {
                 "id": 1,
