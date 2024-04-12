@@ -589,6 +589,65 @@
         "questions": [
             {
                 "id": 1,
+                "title": "Para praticar uma condução segura, o condutor deve:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e3.png",
+                "options": [
+                    "Avaliar constrantemente tudo que me rodeia",
+                    "Ter em atenção apenas a sinalização existente",
+                    "Preocupar-se em ser mais rápido"
+                ],
+                "correctOptionIndex": 0
+            }
+            {
+                "id": 2,
+                "title": "Nesta situação, pode ultrapassar o veículo que circula à sua frente?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Sim, utilizando os dispositivos luminosos ou sonoros",
+                    "Não, se para o fazer tiver que pisar ou transpor a linha contínua",
+                    "Sim, já que o condutor deve encostar o seu veículo para deixar-me passar",
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Trânsito proibido ao conjunto de veículos de mercadorias, de peso total superior a 10t",
+                    "Trânsito proibido a veículos de peso por eixo múltiplo superior a 10t",
+                    "Trânsito proibido a veículos do peso por eixo superior a 10t",
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "O que indica a marca rodoviária",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Aproximação de passagem de nível",
+                    "Faixa de sentido reversível",
+                    "Cedência de prioridade",
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "Conduzindo com chuva...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Deve aumentar a distância de segurança para o veículo de frente",
+                    "A distância de travagem é menor",
+                    "Aumenta a distância de reacção",
+                    "Só há perigo quando se formam poças"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+        "id": 3,
+        "questions": [
+            {
+                "id": 1,
                 "title": "Nos veículos de mercadorias, a carga deve ser disposta de modo a que:",
                 "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e3.png",
                 "options": [
@@ -598,6 +657,238 @@
                 ],
                 "correctOptionIndex": 2
             }
+            {
+                "id": 3,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 6,
+                "title": "Nos veículos destinados ao transporte de passageiros ou mistos...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "A carga pode ocultar a matrícula e os dispositivso de sinalização e iluminação",
+                    "A carga deve estar arrumada por forma a que seja devidamente assegurado o equilíbrio do veículo",
+                    "A carga deve colocar-se na parte reservada aos passageiros, mesmo que reduza a visibilidade do condutor",
+                    "A carga pode ultrapassar os contornos do veículo"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "Qual é o comportamento correto para ajudar em caso de acidente",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Não fazer nada até chegarem os agentes da autoridade",
+                    "Transportar imediatamente os feridos mais graves para o hospital mais próximo",
+                    "Parar o veículo sem criar perigo e proteger a zona para evitar novos acidentes",
+                    ""
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Os automóveis ligeiros de passageiros e mistos com reboque, fora das localidades, não devem exceder a velocidade de instantânea de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "80 km/h",
+                    "100 km/h",
+                    "90 km/h",
+                    "120 km/h"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "O que indica o sinal",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Paragem obrigatória",
+                    "Trânsito proibido a veículos com comprimento superior a 60 metros",
+                    "Paragem obrigatório a 60 metros",
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "Como deve pisar o pedal de travão, em caso de necessidade de travagem de emergência, com um veículo que tenhas ABS",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Até o fundo, sem soltá-lo até que o veículo pare",
+                    "Até o fundo e libertá-lo quando sinta vibração",
+                    "Sem muita força, porque poderia bloquear as rodas",
+                    "Ao mesmo tempo com o pedal do acelerador"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": ,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": ,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": ,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": ,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": ,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": ,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            
+        ]
+    },
+    {
+        "id": 3,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Nos veículos de mercadorias, a carga deve ser disposta de modo a que:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e3.png",
+                "options": [
+                    "O principal peso fique sobre o eixo da retaguarda",
+                    "Fique livre o maior espaço possível à retaguarda da caixa de carga",
+                    "Seja assegurado o equilíbrio do veículo, parado ou em movimento"
+                ],
+                "correctOptionIndex": 2
+            }
+            {
+                "id": 3,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 1
+            },
         ]
     }
 ]
