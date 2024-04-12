@@ -590,18 +590,18 @@
             {
                 "id": 1,
                 "title": "Para praticar uma condução segura, o condutor deve:",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e3.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
                     "Avaliar constrantemente tudo que me rodeia",
                     "Ter em atenção apenas a sinalização existente",
                     "Preocupar-se em ser mais rápido"
                 ],
                 "correctOptionIndex": 0
-            }
+            },
             {
                 "id": 2,
                 "title": "Nesta situação, pode ultrapassar o veículo que circula à sua frente?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e2.png",
                 "options": [
                     "Sim, utilizando os dispositivos luminosos ou sonoros",
                     "Não, se para o fazer tiver que pisar ou transpor a linha contínua",
@@ -612,7 +612,7 @@
             {
                 "id": 3,
                 "title": "O que indica o sinal?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e3.png",
                 "options": [
                     "Trânsito proibido ao conjunto de veículos de mercadorias, de peso total superior a 10t",
                     "Trânsito proibido a veículos de peso por eixo múltiplo superior a 10t",
@@ -623,7 +623,7 @@
             {
                 "id": 4,
                 "title": "O que indica a marca rodoviária",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e4.png",
                 "options": [
                     "Aproximação de passagem de nível",
                     "Faixa de sentido reversível",
@@ -634,7 +634,7 @@
             {
                 "id": 5,
                 "title": "Conduzindo com chuva...",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e5.png",
                 "options": [
                     "Deve aumentar a distância de segurança para o veículo de frente",
                     "A distância de travagem é menor",
@@ -646,7 +646,7 @@
             {
                 "id": 6,
                 "title": "Nos veículos destinados ao transporte de passageiros ou mistos...",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e6.png",
                 "options": [
                     "A carga pode ocultar a matrícula e os dispositivso de sinalização e iluminação",
                     "A carga deve estar arrumada por forma a que seja devidamente assegurado o equilíbrio do veículo",
@@ -658,7 +658,7 @@
             {
                 "id": 7,
                 "title": "Qual é o comportamento correto para ajudar em caso de acidente",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e7.png",
                 "options": [
                     "Não fazer nada até chegarem os agentes da autoridade",
                     "Transportar imediatamente os feridos mais graves para o hospital mais próximo",
@@ -670,7 +670,7 @@
             {
                 "id": 8,
                 "title": "Os automóveis ligeiros de passageiros e mistos com reboque, fora das localidades, não devem exceder a velocidade de instantânea de:",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e8.png",
                 "options": [
                     "80 km/h",
                     "100 km/h",
@@ -682,7 +682,7 @@
             {
                 "id": 9,
                 "title": "O que indica o sinal",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e9.png",
                 "options": [
                     "Paragem obrigatória",
                     "Trânsito proibido a veículos com comprimento superior a 60 metros",
@@ -693,7 +693,7 @@
             {
                 "id": 10,
                 "title": "Como deve pisar o pedal de travão, em caso de necessidade de travagem de emergência, com um veículo que tenhas ABS",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e10.png",
                 "options": [
                     "Até o fundo, sem soltá-lo até que o veículo pare",
                     "Até o fundo e libertá-lo quando sinta vibração",
@@ -705,7 +705,7 @@
             {
                 "id": 11,
                 "title": "Como deve actuar o condutor quando tem que fazer uma curva",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e11.png",
                 "options": [
                     "Reduzir a velociade, já dentro da curva",
                     "Aumentar a velocidade, antes de entrar na curva",
@@ -717,7 +717,7 @@
             {
                 "id": 12,
                 "title": "O que indica o sinal?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e12.png",
                 "options": [
                     "Passagem estreita",
                     "Ponte estreita",
@@ -728,7 +728,7 @@
             {
                 "id": 13,
                 "title": "É necessário verificar com frequência o sistema de iluminação",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e13.png",
                 "options": [
                     "Sim, mudando todos os fusíveis",
                     "Sim, para se assegurar que todas as luzes funcionam e que os faróis estão bem regulados",
@@ -740,7 +740,7 @@
             {
                 "id": 14,
                 "title": "Ao circular com velocidade excessiva",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e14.png",
                 "options": [
                     "Aumenta a probabilidade de ter um acidente",
                     "É mais fácil controlar o veículo numa situação de emergência",
@@ -752,7 +752,7 @@
             {
                 "id": 15,
                 "title": "O que deve fazer o condutor quando a intensidade do tráfego é grande?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e15.png",
                 "options": [
                     "Aumentar a velocidade",
                     "Praticar uma condução defensiva",
@@ -763,7 +763,7 @@
             {
                 "id": 16,
                 "title": "A que  grupo percente o sinal triângular",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e16.png",
                 "options": [
                     "Sinais temporários de obrigação",
                     "Sinais temporários de proibição",
@@ -774,7 +774,7 @@
             {
                 "id": 17,
                 "title": "O que indica o sinal?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e17.png",
                 "options": [
                     "Passagem desnivelada para peões com rampas",
                     "Passagem de peões",
@@ -785,7 +785,7 @@
             {
                 "id": 18,
                 "title": "Perante um obstáculo imprevisto que o obriga a reduzir subitamente a velocidade, o condutor deve:",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e18.png",
                 "options": [
                     "Sinalizar a situação utilizando os máximos e os médios alternadamente",
                     "Ligar as luzes de presença para avisar os outros utentes da via",
@@ -796,7 +796,7 @@
             {
                 "id": 19,
                 "title": "Quais são os princípios gerais do socorrismo?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e19.png",
                 "options": [
                     "Prevenir, socorrer e evacuar",
                     "Prevenir, oberserver e socorrer",
@@ -807,7 +807,7 @@
             {
                 "id": 20,
                 "title": "Para ter mais segurança, os peões devem...",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e20.png",
                 "options": [
                     "Transitar sempre do lado esquerdo da faixa de rogadem, em relação ao seu sentido de marcha",
                     "Transitar pelo lado direto, em relação ao seu sentido de marcha, a nào ser que tal comprometa a sua segurança",
@@ -818,7 +818,7 @@
             {
                 "id": 21,
                 "title": "Onde é proibido inverter o sentido de marcha?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e21.png",
                 "options": [
                     "Nos cruzmentos ou entrocamentos de visiviliade reduzida",
                     "Nas rotundas",
@@ -830,7 +830,7 @@
             {
                 "id": 22,
                 "title": "Conduzir um automóvel com uma parte do corpo fora do veículo, constitui:",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e22.png",
                 "options": [
                     "Contravenção média",
                     "Contravenção leve",
@@ -841,7 +841,7 @@
             {
                 "id": 23,
                 "title": "Nesta situação , se não for possível efectuar o cruzamento com segurança, como deve proceder o condutor?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e23.png",
                 "options": [
                     "Acelerar para passar antes do veículo que circula em sentido contrário",
                     "Reduzir velocidade ou parar, de modo a dar a passagem ao outro veículo",
@@ -853,7 +853,7 @@
             {
                 "id": 24,
                 "title": "Existe algum troque para conseguir eliminar o álcool do corpo do condutor, de uma forma mais rápida?",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e24.png",
                 "options": [
                     "Sim, dormir um pouco",
                     "Sim, tomar doces",
@@ -865,7 +865,7 @@
             {
                 "id": 25,
                 "title": "Pode favorecer o aparecimento de fadiga ao volante",
-                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e25.png",
                 "options": [
                     "Descansar frequentemente durante uma viagem",
                     "Conduzir por uma estrada em boas condições",
@@ -873,7 +873,7 @@
                     "Usar o ar condicionado"
                 ],
                 "correctOptionIndex": 2
-            },
+            }
         ]
     },
     {
