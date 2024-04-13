@@ -874,5 +874,299 @@
                 "correctOptionIndex": 2
             }
         ]
+    },
+    {
+        "id": 4,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Os peões podem transitar pela faixa de rodagem nesta estrada",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e1.png",
+                "options": [
+                    "Não, nesta estrada não podem transitar, já que não tem bermas",
+                    "Sim, com prudência e por forma a não prejudicar o trânsito de veículos",
+                    "Sim e devem fazê-lo pela esquerda da faixa de rodagem, em relação ao seu sentido de marcha",
+                    "Sim, mais só quando necessitem atravessar"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 2,
+                "title": "Como deve clocar os sinais de pré-sinalização de perigo, se o veículo avariado fica imobilizado num local onde não é visível a 100 metros de distância?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e2.png",
+                "options": [
+                    "Á frente e à retaguarda do veículo, a uma distância de 10 metros",
+                    "Só um pela retaguarda do veículo a uma distância de 5o metros",
+                    "À frente e à retaguarda do veículo, a uma distância não inferior a 30 metros",
+                    "Não é necessário colocá-los nesta situação"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "O sinal obriga ao condutor a:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e3.png",
+                "options": [
+                    "Acender as luzes do veículo",
+                    "Apagar as luzes do veículo",
+                    "Ligar em simultâneo os indicadores de mudança de direcção"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "É sempre proibido inverter o sentido de marcha nos túneis",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e4.png",
+                "options": [
+                    "Sim, em todos os túnveis",
+                    "Sim, quando a visibilidade for reduzida",
+                    "Sim, se o túnel for de um só sentido"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 5,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e5.png",
+                "options": [
+                    "Obrigação de circulação à velocidade mínima de 80 km/h na fila central",
+                    "Obrigação de ciruculação à velocidade miníma de 80 km/h na fila à direita",
+                    "Obrigação de circulação à velocidade mínima de 80 km/h na fila à esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 6,
+                "title": "Conduzir em condições atmosféricas adversas:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e6.png",
+                "options": [
+                    "Afecta a taxa de alcoolemia",
+                    "Reduz a fagida",
+                    "Afecta a distância de travagem"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e7.png",
+                "options": [
+                    "Início de estrada alcatroada",
+                    "Visibilidade reduzida",
+                    "Fim de estrada alcatroada"
+
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Os condutores de motociclos, dentro das localidades, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e8.png",
+                "options": [
+                    "50 km/h",
+                    "30 km/h",
+                    "40 km/h",
+                    "60 km/h"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "Nas passagens de nível, os condutores estão obrigados a...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e9.png",
+                "options": [
+                    "Passar quando as cancelas ou barreiras estejam em movimento",
+                    "Certificar-se que a intensidade do tráfego não o obriga a imobilizar o veículo sobre ela",
+                    "Aumentar a velocidade para atravessar rapidamente",
+                    "Engrenar uma velocidade mais baixa durante o atravessamento"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 10,
+                "title": "Como o álcool afecta tarefa de conduzir?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e10.png",
+                "options": [
+                    "Aumenta a atenção do condutor, assim que as distracções são reduzidas",
+                    "Reduz o campo de visão do condutor",
+                    "Melhora a apreciação das velocidades",
+                    "Melhora a apreciação das distâncias"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 11,
+                "title": "O consumo do cannabis afecta o comportamento do condutor?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e11.png",
+                "options": [
+                    "Sim, diminui a sonolência",
+                    "Sim, aumenta o tempo de reacção",
+                    "Não",
+                    "Sim, aumenta o seu nível de atenção"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Os condutores devem ceder passagem...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e12.png",
+                "options": [
+                    "Aos condutores de velocípes que se apresentem pela direita numa intersecção",
+                    "Aos veículos que se apresentem nos ramais de acesso das auto-estradas",
+                    "Aos peões que tenham iniciado a travessia sobre a passagem para peões",
+                    "Aos condutores que saiam de um parque de estacionamento"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e13.png",
+                "options": [
+                    "Trânsito proibido a veíuclos de tracção manual",
+                    "Trânsito proibiod a peões, animais e veículos",
+                    "Trânsito proibido a véiculos de tracção animal"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e14.png",
+                "options": [
+                    "Via obrigatória para veículos de mercadorias",
+                    "Via obrigatória para autocarros",
+                    "Via obrigatória para automóveis pesados"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 15,
+                "title": "Para não causar perigo e por em causa a segurança das pessoas e das coisas, os condutores devem...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e15.png",
+                "options": [
+                    "Regular a velocidade atendendo às características do veículo, às condições da via e ao estado do condutor",
+                    "Circular nos limites máximos de velocidade das estradas",
+                    "Circular abaixo dos limites mínimos de velocidade",
+                    "Ficar em ponto morto nas descidas muito inclinadas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "É permitido que uma criança de 6 anos viaje no banco de frente de um automóvel",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e16.png",
+                "options": [
+                    "Sim, se não tiver bancos ou cintos de segurança na retaguarda",
+                    "Não, em nenhum caso",
+                    "Sim, mesmo que não utilize o cinto de segurança",
+                    "Sim, sempre que utilize o cinto de segurança"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 17,
+                "title": "Nos túneis, que luzes devem utilizar os veículos",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e17.png",
+                "options": [
+                    "De presença",
+                    "De cruzamento, se existe a possibilidade de encandear os condutores que circulem em sentido contrário",
+                    "De estrada, se existe a possibilidade de encandear os condutores que circulem em sentido contrário"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 18,
+                "title": "A condução defensiva é...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e18.png",
+                "options": [
+                    "A circulação de veículos e aniamsi na via pública",
+                    "A movimentação e imobilização de veículos, pessoas e animais nas vias de comunicação rodoviária",
+                    "A forma ponderada como o indivíduo conduz um veículo automóvel, de mode a evitar acidentes"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Pode ter consequências num acidente o facto de não levar o cinto de segurança bem colocado?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e19.png",
+                "options": [
+                    "Não, se o veículo estiver equipado com airbag",
+                    "Não, o cinto é sempre eficaz",
+                    "Sim, porque pode provocar ferimentos graves",
+                    "Sim, por isso o seu uso não é obrigatório"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Para combater a fadiga e o sono, o melhor remédio é:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e20.png",
+                "options": [
+                    "Conduzir com o banco inclinado para trás",
+                    "Oarar de conduzir, descansar e, se necessário, dormir um pouco",
+                    "Fechar todas as janelas",
+                    "Tomar uma bebida em álcool"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Quais os procedimentos que o condutor deve adoptar antes de iniciar uma ultrapassagem?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e21.png",
+                "options": [
+                    "Deve certificar-se de que a pode fazer sem perigo e sinalizar a manobra aos outros condutores",
+                    "Deve observar apenas o espelho esquerdo",
+                    "Deve execeder os limtes de velocidade estabelecidos para poder terminar rapidamete a manobra",
+                    "Apenas deve sinalizar a sua intenção, já que as luzes indicadoras de direcção lhe dão prioridade para realizar a manobra"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e22.png",
+                "options": [
+                    "Aproximação de saída de autro-estrada a 100 metros",
+                    "Aproximação de saída de auto-estrada a 200 metros",
+                    "Aproximação de saída de auto-estrada a 300 metros"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 23,
+                "title": "A regulamentação do trânsito no interior das localidades, compete...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e23.png",
+                "options": [
+                    "Às Delegações Provincias do INNATER",
+                    "Aos Corpos Administrativos ou aos Conselhos Municipais",
+                    "À ENE",
+                    "À Policia de Trânsito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "A marca rodoviária de cor amarela, indica:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e24.png",
+                "options": [
+                    "Obriga todos os veículos a parar no cruzamento",
+                    "Proíbe todos os veículos de parar antes do cruzamento",
+                    "Reforça a regra que impede a imobilização de veículos no centro da intersecção"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Para os condutores de transporte de serviço público ou de carga perigosa, quando em exercício, a taxa de álcool de ve ser de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e25.png",
+                "options": [
+                    "0.3 mg/l",
+                    "0.0 mg/l",
+                    "0.6 mg/l"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
     }
 ]
